@@ -3,8 +3,8 @@
 사용자는 후원과 응원을 통해 참여할 수 있는
 크라우드 펀딩 통합 서비스입니다.
 
-### ➡️ [Backend Source](https://github.com/backend20250319/BE09-4th-3team-BE)
-### ➡️ [frontend Source](https://github.com/backend20250319/BE09-4th-3team-FE)
+#### ➡️ [Backend Source](https://github.com/backend20250319/BE09-4th-3team-BE)
+#### ➡️ [frontend Source](https://github.com/backend20250319/BE09-4th-3team-FE)
 : 펀디(Fundy) 
 
 👥 팀원 소개 및 담당 기능
