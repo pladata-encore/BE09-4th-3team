@@ -27,7 +27,7 @@
 -Git을 이용한 협업 및 버전 관리, PR 기반 개발 프로세스 실습
 -Jenkins를 이용한 CI/CD 파이프라인 구축으로 자동화된 배포 시스템 구현
 - AWS EC2, RDS, S3, CloudFront를 활용한 클라우드 인프라 구성 및 서비스 운영 경험
-
+<br/>
 
 ## MSA아키텍쳐 설계도
 | 서비스 이름 | 주요 기능 | 주요 디렉토리 |
@@ -41,6 +41,8 @@
 | **Review Service** | 프로젝트 리뷰 등록 및 조회 | `review/` 전체 |
 
 <img width="2047" height="665" alt="image" src="https://github.com/user-attachments/assets/aeded46b-f704-4fb7-88e0-327cfd7254ce" />
+
+<br/>
 
 ## 테스트 케이스
 <details>
@@ -191,6 +193,8 @@ TC-NT-001 | 종 아이콘 클릭 시 알림 페이지로 이동 | 드롭다운 �
 TC-NT-002 | 읽지 않은 알림 수 뱃지 표시 | 종 아이콘에 빨간 뱃지 정상 표시 여부 확인 | 중간  
 
 </details>
+
+<br/>
 
 ## 테스트 케이스 결과서
 <details>
