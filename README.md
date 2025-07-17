@@ -57,7 +57,7 @@
 
 <br/>
 
-## 테스트 케이스
+## ✅ 테스트 케이스
 
 <details>
 <summary>📎 헤더</summary>
@@ -210,7 +210,7 @@ TC-RV-010 | Delete - 후기 삭제 권한 확인 | 타인의 후기 삭제 요�
 
 <br/>
 
-## 테스트 케이스 결과서
+## ✅ 테스트 케이스 결과서
 
 <details>
 <summary>📎 헤더</summary>
