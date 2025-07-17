@@ -5,7 +5,6 @@
 
 #### ➡️ [Backend Source](https://github.com/backend20250319/BE09-4th-3team-BE)
 #### ➡️ [frontend Source](https://github.com/backend20250319/BE09-4th-3team-FE)
-: 펀디(Fundy) 
 
 ## 👥 팀원 소개 및 담당 기능
 
