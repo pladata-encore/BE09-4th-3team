@@ -57,7 +57,7 @@
 <img width="2047" height="665" alt="image" src="https://github.com/user-attachments/assets/aeded46b-f704-4fb7-88e0-327cfd7254ce" />
 
 <br/>
-
+<br/>
 ## ✅ 테스트 케이스
 
 <details>
