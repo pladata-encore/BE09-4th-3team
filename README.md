@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🎯 프로젝트 목표 (Jenkins + AWS EC2 기반 반영)
+## 🎯 프로젝트 목표
 - 프론트엔드와 백엔드가 협업하는 실전 웹 서비스 개발 경험
 -사용자 역할 기반의 기능 흐름 설계 및 구현 (일반 사용자 / 관리자)
 -Spring Boot 기반 CRUD 서비스 및 예외처리, 유효성 검사 등 백엔드 실무 역량 강화
@@ -28,6 +28,18 @@
 -Git을 이용한 협업 및 버전 관리, PR 기반 개발 프로세스 실습
 -Jenkins를 이용한 CI/CD 파이프라인 구축으로 자동화된 배포 시스템 구현
 - AWS EC2, RDS, S3, CloudFront를 활용한 클라우드 인프라 구성 및 서비스 운영 경험
+<br/>
+
+
+### 🚀 기술 스택
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 
 ## MSA아키텍쳐 설계도
