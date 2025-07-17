@@ -31,7 +31,7 @@
 <br/>
 
 
-### 🚀 기술 스택
+## 🚀 기술 스택
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -42,7 +42,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 
-## MSA아키텍쳐 설계도
+## 📐 MSA아키텍쳐 설계도
 | 서비스 이름 | 주요 기능 | 주요 디렉토리 |
 | --- | --- | --- |
 | **Auth Service** | 로그인, JWT 발급, OAuth2 인증 | `register/auth`, `register/security` |
